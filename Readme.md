@@ -55,13 +55,13 @@ This project presents a detailed sales analysis of a coffee shop using **Microso
 
 ## 📈 Dashboard Preview
 
-*(Insert screenshot or link to Excel file if hosted)*  
-> Example:  
-> ![Dashboard Preview](dashboard_screenshot.png)
+ 
+
 
 ---
 
 ## 💡 Business Insights
+![Uploading coffephoto.png…]()
 
 - **Most popular products**: Identified the top-selling drinks and food items.
 - **Sales trends**: Highlighted peak sales months and times of day.
