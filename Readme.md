@@ -10,7 +10,7 @@ This project presents a detailed sales analysis of a coffee shop using **Microso
 - Clean and structure raw sales data for analysis.
 - Create dynamic summaries using Pivot Tables and Charts.
 - Develop an interactive Excel dashboard to present business insights.
-- Identify patterns in customer behavior, sales trends, and product performance.
+
 
 ---
 
