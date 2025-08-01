@@ -17,10 +17,9 @@ This project presents a detailed sales analysis of a coffee shop using **Microso
 ## 🛠️ Tools & Technologies
 
 - **Microsoft Excel**
-- Pivot Tables and Pivot Charts
-- Slicers and Filters
-- Excel Functions: `IF`, `VLOOKUP`, `SUMIFS`, `TEXT`, `FILTER`
-- Conditional Formatting
+- Pivot Tables 
+- Excel Functions: `IF`, `VLOOKUP`, `SUMIFS`
+- Data Cleaning
 
 ---
 
@@ -83,7 +82,7 @@ This project presents a detailed sales analysis of a coffee shop using **Microso
 
 ## 🚀 Future Enhancements
 
-- Integrate Power BI or Tableau for interactive web dashboards.
+
 - Automate data refresh using Power Query.
 - Expand dataset with customer feedback and loyalty metrics.
 
